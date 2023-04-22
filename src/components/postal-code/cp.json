@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_postal_code_cps",
+  "info": {
+    "displayName": "CP"
+  },
+  "options": {},
+  "attributes": {
+    "code": {
+      "type": "integer"
+    }
+  }
+}
